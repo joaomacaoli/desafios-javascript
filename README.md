@@ -34,7 +34,7 @@ Inverte uma string sem utilizar funções prontas, como `reverse()`.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/desafios-javascript.git
+   git clone https://github.com/joaomacaoli/desafios-javascript.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -50,4 +50,5 @@ Inverte uma string sem utilizar funções prontas, como `reverse()`.
 ## 📎 Contato
 
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato! 😊
+
 # desafios-javascript
