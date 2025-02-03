@@ -42,7 +42,7 @@ Inverte uma string sem utilizar funções prontas, como `reverse()`.
    ```
 3. Execute o arquivo principal:
    ```bash
-   node desafios.js
+   node src/desafios.js
    ```
 
 ---
